@@ -2,7 +2,7 @@
   "name": "sanitize",
   "version": "0.0.0",
   "description": "Sanitize.js is a whitelist-based HTML sanitizer. Given a list of acceptable elements and attributes, Sanitize.js will remove all unacceptable HTML from a DOM node.",
-  "main": "index.js",
+  "main": "lib/sanitize.js",
   "directories": {
     "example": "examples",
     "test": "test"
