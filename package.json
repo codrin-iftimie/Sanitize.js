@@ -1,0 +1,23 @@
+{
+  "name": "sanitize",
+  "version": "0.0.0",
+  "description": "Sanitize.js is a whitelist-based HTML sanitizer. Given a list of acceptable elements and attributes, Sanitize.js will remove all unacceptable HTML from a DOM node.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/codrin-iftimie/Sanitize.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codrin-iftimie/Sanitize.js/issues"
+  },
+  "homepage": "https://github.com/codrin-iftimie/Sanitize.js"
+}
